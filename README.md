@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VICMAN200
 - 👀 I’m interested in ...Web development, cybersecurity and Blockchain
-- 🌱 I’m currently learning ... Web development, cybersecurity, and Blockchain
+- 🌱 I’m currently learning ... java programming,Web development, cybersecurity, and Blockchain
 - 💞️ I’m looking to collaborate on ...NITDA
 - 📫 How to reach me ... manzovictor200@gmail.com and 07035960835
 
