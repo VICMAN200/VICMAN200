@@ -1,0 +1,28 @@
+package com.practicing;
+
+public class ElseTrial {
+public static void main(String[] args) {
+
+System.out.println("I'm an Edustipend Beneficiary");
+
+
+        }
+        
+        public static void methodTrial() {
+          
+          String myName="Victor Manzo";
+
+int  myAge = 22;
+
+String mySchool = "Modibbo Adama University of Technology Yola";
+
+String myCourse = "Computer Science";
+
+System.out.println("My Name is "+ myName);
+System.out.println("I am " + myAge + "years Old");
+System.out.println("I am Studying at " + mySchool);
+System.out.println("My Course of Study is " + myCourse);
+
+        }
+
+}
